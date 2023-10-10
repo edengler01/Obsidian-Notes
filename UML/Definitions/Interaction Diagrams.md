@@ -1,0 +1,3 @@
+- subset of behaviour diagrams
+- shows flow of control and data among things in system being modeled
+- Example: sequence diagrams shows how objects communicate with each other in terms of a sequence of messages

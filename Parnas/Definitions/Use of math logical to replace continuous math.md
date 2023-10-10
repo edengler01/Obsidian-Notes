@@ -1,0 +1,3 @@
+- able to deal with functions that are not continuous
+- <font style="color:red">Not verified yet in practice</font>
+- <font style="color:red">Large number of states create complex expressions</font>

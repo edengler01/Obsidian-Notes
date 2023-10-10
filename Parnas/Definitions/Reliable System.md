@@ -1,0 +1,1 @@
+- A system carefully designed where it operates within normal range. Can be mathematically analyzed to ensure that the components are operating in range

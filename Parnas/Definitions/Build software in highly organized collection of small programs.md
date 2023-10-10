@@ -1,0 +1,3 @@
+- Dividing software in to modules and having each of them "structured" helps
+- When properly done, each module deals with a small number of states and can be analyzed
+- <font style="color:red">However, real software has many components and lacks repetitive structure to simplify analysis</font>
