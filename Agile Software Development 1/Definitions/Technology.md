@@ -1,0 +1,2 @@
+- Traditional: No restriction
+- Agile: favors object-oriented tech

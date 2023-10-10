@@ -8,174 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c14ac1b8d2462d03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Pages/Why Software is unreliable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2524787bfaeebc7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Definitions/Discrete State Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57f6f9c4d3d93e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Definitions/Analog Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30da2bb28563b89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Definitions/Hybrid Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f37e5d0f836ecec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Pages/Why Software is unreliable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b40ce64e2fd5731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Pages/Why Software is unreliable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62c3dd31d704916a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Definitions/Use of math logical to replace continuous math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "727431e7c76c80b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Pages/Artificial intelligence and the Strategic Defense Initiative.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ba23cf68f355124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Definitions/AI-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5af7d94bdf7bb77f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Pages/Why Software is unreliable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "390a9c6db70afc94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML/UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11bffdddf9c132af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML/Definitions/Static View.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "688862ab4f43300c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML/UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04db3f9a65845feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML/UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e4b95ac229aa95a",
             "type": "leaf",
             "state": {
@@ -186,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65ef2ecf5b256e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile Software Development 1/Agile Software Development Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0912d1e304968091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to SWE/Intro to Software Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agile Software Development 1/Agile Software Development Part 1.md",
+                "file": "Intro to SWE/Intro to Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agile Software Development 1/Agile Software Development Part 1.md",
+                "file": "Intro to SWE/Intro to Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agile Software Development 1/Agile Software Development Part 1.md"
+                "file": "Intro to SWE/Intro to Software Engineering.md"
               }
             }
           }
@@ -315,41 +171,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e4b95ac229aa95a",
+  "active": "0912d1e304968091",
   "lastOpenFiles": [
-    "UML/UML.md",
+    "Parnas/Definitions/Pasted image 20231009225212.png",
+    "Parnas/Definitions/Pasted image 20231009224516.png",
+    "Parnas/Definitions/Pasted image 20231009224502.png",
+    "Parnas/Definitions/Pasted image 20231009224455.png",
+    "Parnas/Definitions/Pasted image 20231009222334.png",
+    "Intro to SWE/Definitions",
     "Agile Software Development 1/Agile Software Development Part 1.md",
-    "Agile Software Development 1",
-    "UML/Definitions/not useful.md",
-    "UML/Definitions/too complex.md",
-    "UML/Definitions/Interaction Diagrams.md",
-    "UML/Definitions/Behavior Diagrams.md",
-    "UML/Definitions/Structure Diagrams.md",
-    "UML/Definitions/Dynamic view.md",
+    "Intro to SWE/Intro to Software Engineering.md",
+    "Intro to SWE",
+    "Agile Software Development 1/Definitions/Extreme programming - XP.md",
+    "Parnas/Definitions/Pasted image 20231009220819.png",
+    "Agile Software Development 1/Definitions/Individuals and Interactions Over Processes and Tools.md",
+    "Agile Software Development 1/Definitions/Responding to Change Over Following a Plan.md",
+    "Agile Software Development 1/Definitions/Customer Collaboration Over Contract Negotiation.md",
+    "Agile Software Development 1/Definitions/Working Software Over Comprehensive Documentation.md",
+    "Agile Software Development 1/Definitions/Technology.md",
+    "Agile Software Development 1/Definitions/Communication.md",
+    "Agile Software Development 1/Definitions/Desired Organizational Form or Structure.md",
+    "Agile Software Development 1/Definitions/Role Assignment.md",
+    "Agile Software Development 1/Definitions/Development Model.md",
+    "Agile Software Development 1/Definitions/Knowledge Management.md",
+    "Agile Software Development 1/Definitions/Project Cycle.md",
+    "Agile Software Development 1/Definitions/Management Style.md",
+    "Agile Software Development 1/Definitions/Customer's Role.md",
+    "Agile Software Development 1/Definitions/Control.md",
+    "Agile Software Development 1/Definitions/Fundamental Assumptions.md",
+    "Desired Organizational Form/Structure.md",
+    "Desired Organizational Form",
+    "Agile Software Development 1/Definitions/important requirement.md",
+    "UML/UML.md",
     "UML/Definitions/Static View.md",
+    "Parnas/Pages/Why Software is unreliable.md",
+    "Parnas/Definitions/AI-1.md",
+    "Parnas/Pages/Artificial intelligence and the Strategic Defense Initiative.md",
+    "Parnas/Definitions/Pasted image 20231009170752.png",
+    "Agile Software Development 1/Definitions",
+    "Agile Software Development 1",
     "UML/Definitions",
     "UML",
     "Parnas/Definitions/Pasted image 20231008121903.png",
-    "Parnas/Pages/Why Software is unreliable.md",
-    "Parnas/Pages/Why the SDI software system will be untrustworthy.md",
-    "Parnas/Pages/Artificial intelligence and the Strategic Defense Initiative.md",
-    "Parnas/Definitions/AI-2.md",
-    "Parnas/Definitions/AI-1.md",
-    "Parnas/Pages/The limits of software engineering methods.md",
-    "Parnas/Pages/Why conventional software development does not produce reliable programs.md",
-    "Parnas/Parnas Summarization.md",
-    "Parnas/Pages/Is SDIO an efficient way to fund worthwhile research.md",
-    "Parnas/Definitions/error.md",
-    "Parnas/Definitions/Use of math logical to replace continuous math.md",
-    "Parnas/Definitions/Reliable System.md",
-    "Parnas/Definitions/Build software in highly organized collection of small programs.md",
-    "Parnas/Definitions/Discrete State Systems.md",
     "Parnas/Pages",
-    "Parnas/Definitions/Hybrid Systems.md",
-    "Parnas/Definitions/Analog Systems.md",
     "Parnas/Definitions",
     "Parnas",
-    "Parnas/Pages/Can program verification make the SDI software reliable.md",
     "Untitled.canvas"
   ]
 }

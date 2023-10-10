@@ -1,0 +1,2 @@
+- Traditional: Life cycle model (Waterfall, Spiral, or some variation)
+- The evolutionary-delivery model

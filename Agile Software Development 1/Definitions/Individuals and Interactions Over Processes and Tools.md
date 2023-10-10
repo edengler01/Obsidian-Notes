@@ -1,0 +1,5 @@
+- People are the ones that respond to business need and drive development
+- If tools or process drive dev, team is less responsive
+- Communication is example of difference between valuing individuals versus process
+	- Agile: Communication is fluid and happens when need arises
+	- Process: Communication is scheduled and requires specific content
