@@ -1,0 +1,1 @@
+- Software designed to perform precise calculations on complex numerical data that are obtained during real time environment 

@@ -1,0 +1,2 @@
+- Acts as interface between user and internet
+- Web browser retrieves web pages from the internet
