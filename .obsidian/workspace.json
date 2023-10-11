@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parnas/Pages/Why Software is unreliable.md",
+                "file": "Parnas/Pages/The limits of software engineering methods.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parnas/Pages/Why Software is unreliable.md",
+                "file": "Parnas/Pages/The limits of software engineering methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parnas/Pages/Why Software is unreliable.md",
+                "file": "Parnas/Pages/The limits of software engineering methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parnas/Pages/Why Software is unreliable.md"
+                "file": "Parnas/Pages/The limits of software engineering methods.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "4ab34b92c951b544",
   "lastOpenFiles": [
-    "Parnas/Definitions/Build software in highly organized collection of small programs.md",
     "Parnas/Pages/Why Software is unreliable.md",
+    "Parnas/Definitions/Build software in highly organized collection of small programs.md",
     "Parnas/Pages/Artificial intelligence and the Strategic Defense Initiative.md",
     "Parnas/Parnas Summarization.md",
     "Intro to SWE/Intro to Software Engineering 2.md",
