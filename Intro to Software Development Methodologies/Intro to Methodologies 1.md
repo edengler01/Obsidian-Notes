@@ -3,12 +3,13 @@
 
 **Paradigms & Models of SW Dev**
 - Two Camps
-	1. [[Plan-driven]]
-	2. [[Agile methodologies]]
+	1. [[Plan-driven development]] methodologies
+	2. [[Agile development]] methodologies
 
 
 **Software Models**
  1. [[Waterfall Model]]
+	 - SADCTO
  2. [[Prototyping]]
  3. [[Iterative & Incremental Development]]
  4. [[Reuse-oriented Software Engineering]]

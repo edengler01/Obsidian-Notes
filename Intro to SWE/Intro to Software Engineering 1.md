@@ -34,10 +34,10 @@
 - Availability of qualified software engineers has not kept pace
 - Led to a so called Software Crisis
 
-**Definition: Algorithm***
+**Definition: Algorithm**
 - Well-ordered collection of well defined and effectively computable operations that, when executed, produces a result and solves a problem within a finite amount of time
 
-**What is software?***
+**What is software?**
 - All information processed by computer systems, programs and data
 
 **What exactly is engineering?**

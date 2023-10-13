@@ -1,6 +1,6 @@
 **Basic Idea**
 - Rapid dev and delivery now [[important requirement]]
-- Older plan-driven models does not meet these business needs
+- Older [[Plan-driven development]] models does not meet these business needs
 - Emerged in the late 90s
 - Aim to radically reduce the delivery time for working software systems
 - Program specs, design and implementation are inter-leaved
@@ -35,12 +35,12 @@
 1. [[Individuals and Interactions Over Processes and Tools]]
 	- Summary: Self-organization and motivation are key. 
 		- Interactions like co-location and pair programming
-1. [[Working Software Over Comprehensive Documentation]]
+2. [[Working Software Over Comprehensive Documentation]]
 	- Summary: Working software is more useful and welcome than just presenting documents to clients in meetings
-2. [[Customer Collaboration Over Contract Negotiation]]
+3. [[Customer Collaboration Over Contract Negotiation]]
 	- Summary: Requirements cannot be fully collected at the start of the SDLC
 		- Continuous customer/stakeholder involvement is very important
-1. [[Responding to Change Over Following a Plan]]
+4. [[Responding to Change Over Following a Plan]]
 	- Summary: Agile methods focused on quick responses to change and continuous development
 
 

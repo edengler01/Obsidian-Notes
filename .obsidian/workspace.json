@@ -11,12 +11,8 @@
             "id": "4ab34b92c951b544",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parnas/Pages/The limits of software engineering methods.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parnas/Pages/The limits of software engineering methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parnas/Pages/The limits of software engineering methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Parnas/Pages/The limits of software engineering methods.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,35 +142,37 @@
   },
   "active": "4ab34b92c951b544",
   "lastOpenFiles": [
-    "Parnas/Pages/Why Software is unreliable.md",
-    "Parnas/Definitions/Build software in highly organized collection of small programs.md",
-    "Parnas/Pages/Artificial intelligence and the Strategic Defense Initiative.md",
-    "Parnas/Parnas Summarization.md",
-    "Intro to SWE/Intro to Software Engineering 2.md",
+    "Intro to Software Development Methodologies/Definitions/Plan-driven.md",
     "Intro to Software Development Methodologies/Intro to Methodologies 1.md",
-    "Agile Software Development 1/Definitions/Agile development.md",
-    "UML/UML.md",
     "Agile Software Development 1/Agile Software Development Part 1.md",
-    "Agile Software Development 1/Definitions/Individuals and Interactions Over Processes and Tools.md",
-    "Intro to Software Development Methodologies/Definitions/AGILE.md",
-    "Intro to Software Development Methodologies/Definitions/RAD (Rapid Application Development).md",
-    "Intro to Software Development Methodologies/Definitions/SPIRAL.md",
-    "Parnas/Definitions/Pasted image 20231010234342.png",
-    "Intro to Software Development Methodologies/Definitions/The V Model.md",
-    "Parnas/Definitions/Pasted image 20231010234252.png",
-    "Intro to Software Development Methodologies/Definitions/Reuse-oriented Software Engineering.md",
-    "Intro to Software Development Methodologies/Definitions/Iterative & Incremental Development.md",
-    "Intro to Software Development Methodologies/Definitions/Prototyping.md",
-    "Intro to SWE/Definitions/Business and social change.md",
-    "Intro to SWE/Definitions/Security and trust.md",
+    "Agile Software Development 1/Definitions/Agile development.md",
+    "Agile Software Development 1/Definitions/Plan-driven development.md",
+    "Intro to SWE/Intro to Software Engineering 1.md",
     "Intro to Software Development Methodologies/Definitions/Waterfall Model.md",
-    "Intro to Software Development Methodologies/Software Models.md",
+    "Intro to Software Development Methodologies/Definitions/Agile methodologies.md",
+    "Intro to SWE/Intro to Software Engineering 2.md",
+    "Parnas/Pages/Can program verification make the SDI software reliable.md",
+    "Parnas/Pages/Artificial intelligence and the Strategic Defense Initiative.md",
+    "Agile Software Development 1/Definitions/Management Style.md",
+    "Intro to Software Development Methodologies/Definitions/AGILE.md",
+    "Intro to Software Development Methodologies/Definitions/The V Model.md",
+    "Intro to Software Development Methodologies/Definitions/SPIRAL.md",
+    "Parnas/Parnas Summarization.md",
+    "Intro to SWE/Definitions/Web-based software.md",
+    "Parnas/Pages/Why the SDI software system will be untrustworthy.md",
+    "Parnas/Pages/Why Software is unreliable.md",
+    "Parnas/Pages/Why conventional software development does not produce reliable programs.md",
+    "Parnas/Pages/The limits of software engineering methods.md",
+    "Parnas/Pages/Can automatic programing solve the SDI software problem.md",
+    "Parnas/Pages/Is SDIO an efficient way to fund worthwhile research.md",
+    "Parnas/Definitions/Technocrats.md",
+    "Parnas/Untitled.canvas",
+    "Untitled.canvas",
+    "Parnas/Definitions/Build software in highly organized collection of small programs.md",
+    "UML/UML.md",
+    "Parnas/Definitions/Pasted image 20231010234342.png",
+    "Parnas/Definitions/Pasted image 20231010234252.png",
     "Parnas/Definitions/SoftwareModels.pdf",
-    "OneNote/MACM 201/Assignment 1 (1).md",
-    "OneNote/MACM 201/Untitled 3.md",
-    "OneNote/CMPT276/Untitled.md",
-    "OneNote/CMPT276/Sotware Engier.md",
-    "OneNote/CMPT276/1.2 - Introduction to Software Engineering 2.md",
     "Parnas/Definitions/Untitled 1 1.md/Exported image 20231010231650-7.png",
     "Parnas/Definitions/Untitled 2.md/Exported image 20231010231650-7.png",
     "Parnas/Definitions/Lecture Notes.md/Exported image 20231010231650-7.png",
@@ -195,7 +189,6 @@
     "Parnas/Definitions/Untitled 2.md/Assignment 1 (1).pdf",
     "Parnas/Definitions/Lecture Notes.md/201notes-chap3.pdf",
     "Parnas/Definitions/Lecture Notes.md/Assignment 1 (1).pdf",
-    "Parnas/Definitions/Untitled 1.md/201notes-chap3.pdf",
-    "Untitled.canvas"
+    "Parnas/Definitions/Untitled 1.md/201notes-chap3.pdf"
   ]
 }

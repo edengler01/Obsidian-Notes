@@ -12,3 +12,13 @@ Possible for a program to meet one definition but not the other. Workers in [[AI
 - [[AI-2]] disappointing. Heuristics only worked in obvious cases but failed in general cases
 - Techniques do not generalize and improved programs never seem to appear
 **What about expert systems?**
+- Seems to be a nightmare to maintain
+	- poorly understood, structured and thus hard to maintain
+- Some problems in SDI are in a realm where there are no human experts
+	- Humans can't reliably look at missiles in ballistic flight and distinguish which is a decoy and which is the real one
+
+**Conclusion**
+- AI and Intelligence are alike from a broad point of view
+	- closer look reveals they are different
+- AI offers no silver bullet to solve the problems
+- Heuristics are not trustable
