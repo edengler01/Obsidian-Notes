@@ -1,2 +1,0 @@
-- Traditional: Guided by tasks/activities
-- Agile: The evolutionary-delivery model

@@ -1,0 +1,3 @@
+- fucntionality
+- a discrete unit of interaction
+- try to use a tabular version

@@ -1,0 +1,2 @@
+- Traditional: Mechanistic
+- Agile: Organic

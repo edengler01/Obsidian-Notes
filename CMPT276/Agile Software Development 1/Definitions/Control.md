@@ -1,0 +1,2 @@
+- Traditional: Process-centric
+- Agile: People-centric

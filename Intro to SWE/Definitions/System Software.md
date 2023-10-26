@@ -1,2 +1,0 @@
-- Manages and controls OS
-- Acts as an interface between software and hardware

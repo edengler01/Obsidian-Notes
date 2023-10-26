@@ -1,0 +1,2 @@
+- Software has to be developed across a wide range of scales
+	- from small embedded systems to internet scale, cloud services

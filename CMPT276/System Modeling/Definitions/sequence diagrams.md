@@ -1,0 +1,4 @@
+- model flow of logic visually
+- basically a flow chart
+- logic of methods
+- logic of services

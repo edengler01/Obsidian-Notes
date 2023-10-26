@@ -1,2 +1,0 @@
-- Observes, analyzes and controls real world events as they occur
-- Example: Weather forecasting software

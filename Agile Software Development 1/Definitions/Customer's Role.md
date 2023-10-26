@@ -1,2 +1,0 @@
-- Traditional: Important
-- Agile: Critical

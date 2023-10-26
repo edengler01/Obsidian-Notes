@@ -1,2 +1,0 @@
-- Use of computers to solve problems that could previously be solved only applying human intelligence
-- A set of problems

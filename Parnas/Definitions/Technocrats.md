@@ -1,3 +1,0 @@
-- Unsuccessful researchers, system builders
-- People who enter the bureaucracy after their education
-- most are hard working, but lack the expertise 

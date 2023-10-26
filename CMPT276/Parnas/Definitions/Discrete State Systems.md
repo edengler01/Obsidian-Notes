@@ -1,0 +1,1 @@
+- Comprised of components with a finite number of states. Behaviour is insignificant when not in stable state.

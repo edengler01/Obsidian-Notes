@@ -1,0 +1,3 @@
+- Business operate in fast-changing environment
+- Impossible to produce a set of stable software requirements
+- Software has to evolve quickly to reflect changing business needs

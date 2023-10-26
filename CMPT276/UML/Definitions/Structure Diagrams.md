@@ -1,0 +1,3 @@
+- Emphasize things that must be present in the system to be modeled
+- Used to document software architecture of software systems
+- Example: Component diagrams shows how a software system is split in two components & shows dependencies among them.

@@ -1,2 +1,0 @@
-- Traditional: Individual - favors specs
-- Agile: Self-organizing teams - encourages interchangeability

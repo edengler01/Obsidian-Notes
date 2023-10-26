@@ -1,3 +1,0 @@
-- Problem solving techniques that are non-algorithmic in nature
-- Requires specific problem solving strategies such as expert systems
-- Also includes the use of heuristics

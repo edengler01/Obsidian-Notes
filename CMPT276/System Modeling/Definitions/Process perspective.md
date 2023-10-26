@@ -1,0 +1,2 @@
+- reveal how system being developed is used in broader business processes
+- UML activity diagrams

@@ -1,2 +1,0 @@
-Traditional: Explicit
-Agile: Tacit

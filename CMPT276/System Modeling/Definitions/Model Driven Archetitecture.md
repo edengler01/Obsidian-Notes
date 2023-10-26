@@ -1,0 +1,3 @@
+- precursor of more model-driven engineering
+- models at different levels of abstraction are created
+	- possible to generate a working program without manual intervention

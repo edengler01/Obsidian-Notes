@@ -1,0 +1,2 @@
+- The use of specific set of programming techniques known are heuristic or rule-based programming
+- a set of techniques

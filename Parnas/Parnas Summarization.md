@@ -1,8 +1,0 @@
-[[Why Software is unreliable]]
-[[Why the SDI software system will be untrustworthy]]
-[[Why conventional software development does not produce reliable programs]]
-[[The limits of software engineering methods]]
-[[Artificial intelligence and the Strategic Defense Initiative]]
-[[Can automatic programing solve the SDI software problem]]
-[[Can program verification make the SDI software reliable]]
-[[Is SDIO an efficient way to fund worthwhile research]]

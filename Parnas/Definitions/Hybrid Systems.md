@@ -1,2 +1,0 @@
-- Mixtures of both.
-- Example: An electrical circuit containing a few components whose equations have discontinuities. Each of these parts have a small number of discrete operating states. Within, can be described as continuous functions

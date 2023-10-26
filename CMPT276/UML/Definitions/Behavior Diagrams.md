@@ -1,0 +1,3 @@
+- Shows behavior of what must happen in the system being modeled
+- Used to describe the functionality of software systems.
+- Example: describes business & operational step-by-step activities of the components in a system.

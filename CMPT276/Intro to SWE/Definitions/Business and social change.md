@@ -1,0 +1,1 @@
+- Change incredibly quickly as emerging economies develop & new tech become available

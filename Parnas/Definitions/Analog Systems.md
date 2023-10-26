@@ -1,1 +1,0 @@
-- Comprised of components with "infinite" number of stable states. Behaviour is like a continuous function

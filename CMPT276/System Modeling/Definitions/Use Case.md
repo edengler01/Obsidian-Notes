@@ -1,0 +1,4 @@
+- Model behavior of a system
+- Help capture requirements of a system
+- Describes what the system does and how the actors use it
+	- but not how the system operates internally

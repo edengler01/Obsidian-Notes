@@ -1,3 +1,0 @@
-- Traditional: Systems are fully spec'd, predictable
-	- Built through meticulous & extensive planning
-- Agile: High-quality, adaptive software can be dev by small teams using the principles of constant design improvement & testing based on rapid feedback

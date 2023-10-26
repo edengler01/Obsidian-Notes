@@ -1,2 +1,0 @@
-- General applications for personal use
-- Emerged as versatile tool for routine applications

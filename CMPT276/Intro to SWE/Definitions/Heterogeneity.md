@@ -1,0 +1,1 @@
+- Systems are required to operate as distributed systems across networks that include different types of computer & mobile devices

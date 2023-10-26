@@ -1,1 +1,0 @@
-- a software development method which attempts to plan and develop all of the features a user might want in the final product and determines how all those features are to be developed
