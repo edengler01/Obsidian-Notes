@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT276/Requirements/Requirements 1.md",
+                "file": "Feasibility Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPT276/Requirements/Requirements 1.md",
+                "file": "Feasibility Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT276/Requirements/Requirements 1.md",
+                "file": "Feasibility Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT276/Requirements/Requirements 1.md"
+                "file": "Feasibility Study.md"
               }
             }
           }
@@ -221,8 +221,9 @@
   },
   "active": "9c450c2670b02f9c",
   "lastOpenFiles": [
-    "Requirements Engineering.md",
     "CMPT276/Requirements/Requirements 1.md",
+    "Feasibility Study.md",
+    "Requirements Engineering.md",
     "Software Requriem.md",
     "CMPT276/Table of Contents.md",
     "CMPT276/System Modeling/System Modeling 2.md",
@@ -257,7 +258,6 @@
     "MACM201/Chapter 4.1 Intro to Recurrence Relations.md",
     "MACM201",
     "CMPT276/UML/UML.md",
-    "README.md",
     "CMPT276"
   ]
 }

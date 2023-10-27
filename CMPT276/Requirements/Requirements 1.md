@@ -34,4 +34,17 @@
 
 
 #### Requirements Engineering Process
-Typical problems in the Requirement Phase
+##### Typical problems in the Requirement Phase
+- Requirements do not accurately account for customer's real problems
+- Not Properly prioritized
+- Stated at an inappropriate level of specification
+	- Over-specification: embeds unnecessary design constraints
+	- Under-specification: missing or incomplete definition of requirements 
+
+
+### Non-Agile Process
+Four steps
+- [[Feasibility Study]]
+- [[Requirement Gathering]]
+- [[Software Req Specification]]
+- [[Software Req Validation]]
