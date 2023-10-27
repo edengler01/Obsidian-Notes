@@ -1,0 +1,1 @@
+Statements in natural language plus diagrams of services the system provides and its operational constraints. Written for the customers.
