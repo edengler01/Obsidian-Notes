@@ -1,0 +1,1 @@
+- include redundant components & mechanisms for fault tolerance

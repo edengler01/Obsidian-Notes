@@ -1,0 +1,2 @@
+- Should include info about when they are useful and when they are not
+- May be shown as tabular & graphical descriptions

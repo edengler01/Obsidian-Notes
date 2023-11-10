@@ -1,0 +1,1 @@
+- Use a layered architecture with critical assets within the inner layers

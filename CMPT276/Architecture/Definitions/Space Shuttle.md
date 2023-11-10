@@ -1,0 +1,4 @@
+- Systems had to be very fast and reliable
+- an appropriate real-time computing language would need to be chosen
+- Would need redundancy and independent produced copies of the program
+	- so they could run on independent hardware to cross check results

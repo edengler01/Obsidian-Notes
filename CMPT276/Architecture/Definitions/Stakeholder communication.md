@@ -1,0 +1,1 @@
+Structure may be used as a focus of discussion between system stakeholders

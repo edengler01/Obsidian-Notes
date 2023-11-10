@@ -1,0 +1,2 @@
+- The architecture may be reusable across a range of systems
+- Product-line architectures may be developed

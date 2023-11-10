@@ -1,0 +1,2 @@
+- localize critical operations and minimize communications
+- Use large rather than small components

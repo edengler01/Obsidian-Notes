@@ -1,0 +1,3 @@
+- a design pattern for implementing user interfaces on computers
+- divides a software application into three interconnected parts 
+	- to separate internal representations of info from the ways that info is presented to or accepted from the user

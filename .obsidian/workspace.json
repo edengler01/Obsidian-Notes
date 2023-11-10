@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "586186a45a36a4e7",
+        "id": "1482c3e36d3faf0b",
         "type": "tabs",
         "children": [
           {
-            "id": "857662458cf60e71",
+            "id": "3962232b6ea2d2f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d293886b229b5146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
-                "mode": "source",
+                "file": "CMPT276/Architecture/Architecture 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "file": "CMPT276/Architecture/Architecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "file": "CMPT276/Architecture/Architecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md"
+                "file": "CMPT276/Architecture/Architecture 2.md"
               }
             }
           }
@@ -161,45 +148,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acafa7bead4137a7",
+  "active": "3962232b6ea2d2f4",
   "lastOpenFiles": [
+    "Model-view-controller (MVC).md",
+    "CMPT276/Architecture/Architecture 2.md",
+    "Patterns.md",
+    "CMPT276/Architecture/Architecture 1.md",
+    "ADLs.md",
+    "CMPT276/Architecture/Definitions/User Scenarios.md",
+    "CMPT276/Architecture/Definitions/Pasted image 20231110110228.png",
+    "CMPT276/Architecture/Definitions/4 + 1 View Model.md",
+    "CMPT276/Architecture/Definitions/Maintainability.md",
+    "CMPT276/Architecture/Definitions/Pasted image 20231110104849.png",
+    "CMPT276/Architecture/Definitions/Availability.md",
+    "CMPT276/Architecture/Definitions/Safety.md",
+    "CMPT276/Architecture/Definitions/Security.md",
+    "CMPT276/Architecture/Definitions/Performance.md",
+    "CMPT276/Architecture/Definitions/Pasted image 20231110104910.png",
+    "CMPT276/Architecture/Definitions/Large-scale reuse.md",
+    "CMPT276/Architecture/Definitions/System analysis.md",
+    "CMPT276/Architecture/Definitions/Stakeholder communication.md",
+    "CMPT276/Architecture/Definitions/Pasted image 20231110103222.png",
+    "CMPT276/Architecture/Definitions/Pasted image 20231110103120.png",
+    "CMPT276/Architecture/Definitions/Space Shuttle.md",
+    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+    "CMPT276/Architecture/Definitions",
+    "Arczzzz",
+    "CMPT276/Architecture",
+    "README.md",
     "CMPT276/Software Testing and Verification/Definitions",
     "CMPT276/Software Testing and Verification",
-    "README.md",
-    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
     "CMPT276/Design and Implementaton/Design and Implementation 2.md",
     "CMPT276/Design and Implementaton/Design and Implementation 1.md",
     "Design",
     "CMPT276/Design and Implementaton",
-    "Architecture 2.md",
     "CMPT276/Table of Contents.md",
     "CMPT276/Requirements/Requirements 1.md",
     "MACM201/Chapter 4.1 Intro to Recurrence Relations.md",
     "CMPT276/Requirements/Definitions/Feasibility Study.md",
     "CMPT276/Requirements/Definitions/Structural models.md",
     "CMPT276/Requirements/Definitions/Software Requriem.md",
-    "CMPT276/Requirements/Definitions/Requirements Engineering.md",
-    "CMPT276/System Modeling/System Modeling 1.md",
-    "CMPT276/System Modeling/System Modeling 2.md",
-    "CMPT276/Agile Software Development 1/Agile Software Development Part 1.md",
-    "CMPT276/Intro to SWE/Intro to Software Engineering 1.md",
-    "CMPT276/Intro to SWE/Intro to Software Engineering 2.md",
-    "CMPT276/Requirements/Definitions/Software Specification.md",
-    "CMPT276/Requirements/Definitions/User Requirements.md",
-    "CMPT276/Requirements/Definitions/System Requirements.md",
     "CMPT276/Requirements/Definitions",
     "CMPT276/Requirements",
     "CMPT276/System Modeling/Pictures/racoon-bazaar-Iteration2.zip",
-    "CMPT276/System Modeling/Pictures/Unconfirmed 46897.crdownload",
-    "CMPT276/System Modeling/Definitions/Behaviour Models.md",
-    "CMPT276/System Modeling/Definitions/Process perspective.md",
-    "CMPT276/System Modeling/Definitions/Model Driven Engineering.md",
-    "CMPT276/System Modeling/Definitions/Model Driven Archetitecture.md",
-    "CMPT276/System Modeling/Definitions/Use Case.md",
     "CMPT276/System Modeling/Pictures/04-activity-diagram-example-process-order.webp",
-    "CMPT276/System Modeling/Pictures/04-activity-diagram-example-process-order 1.webp",
-    "CMPT276/System Modeling/Pictures/04-activity-diagram-example-process-order.webp.crdownload",
-    "CMPT276/System Modeling/Pictures",
-    "CMPT276/System Modeling/Definitions"
+    "CMPT276/System Modeling/Pictures/04-activity-diagram-example-process-order 1.webp"
   ]
 }

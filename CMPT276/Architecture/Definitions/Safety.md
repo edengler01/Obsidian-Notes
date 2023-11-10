@@ -1,0 +1,1 @@
+- Localize safety-critical components & mechanisms for fault tolerance
