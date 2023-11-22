@@ -74,16 +74,34 @@ confirmation bias in swe
 	
 	
 
-test cases derived from seq diagrams
+### Test Cases Derived from Sequence Diagram
 
 
+# Test driven development
+- The approach in which you inter weave testing and code development
+- Tests are written before code and "passing" the tests are the main driver of development
+- Develop code incrementally, along with the tests
+	- Don't start development on the next increment until all tests have passed
+- Was introduced as part of agile methods such as [[Extreme programming - XP]]
+	- Can also be used in [[Plan-driven development]]
+## Flow of Test Driven Development
+![[Pasted image 20231122152157.png]]
+## Process Activities
+1. Start by dividing functionality into increments
+	- should be small and implementable 
+2.  Write a test for this small segment
+3.  Run all tests
+4. Then incrementally develop the functionality
+5. Once all tests are successful, move to the next chunk
 
 
-Test driven development
-	benefits
+### Benefits
+- Code Coverage
+- Regression Testing
+- Simplified Debugging
+- System Documentation
 
-
-regression testing
+## Regression testing
 
 
 release testing

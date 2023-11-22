@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MACM201/Chapter 7 Trees.md",
+                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MACM201/Chapter 7 Trees.md",
+                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MACM201/Chapter 7 Trees.md",
+                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MACM201/Chapter 7 Trees.md"
+                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "2199bd53c9422905",
   "lastOpenFiles": [
+    "Pasted image 20231122152157.png",
+    "Design/Model-view-controller (MVC).md",
+    "MACM201/Chapter 7 Trees.md",
     "MACM201/Chapter 1/Chapter 1 and 2.md",
     "MACM201/Chapter 1/Lecture 6.md",
     "MACM201/Chapter 1/Lecture 5.md",
@@ -168,7 +171,6 @@
     "MACM201/Chapter 1/Lecture 1.md",
     "MACM201/Chapter 1",
     "MACM201/Table of Contents.md",
-    "MACM201/Chapter 7 Trees.md",
     "MACM201/Chapter 4.1 Intro to Recurrence Relations.md",
     "MACM201/Defintion/Pasted image 20231122140915.png",
     "simple graph.md",
@@ -184,7 +186,6 @@
     "MACM201/Defintion/Pasted image 20231122140226.png",
     "MACM201/Defintion/Example.md",
     "MACM201/Defintion",
-    "Design/Model-view-controller (MVC).md",
     "Design/Patterns.md",
     "Design/ADLs.md",
     "Presentations.md",
@@ -195,7 +196,6 @@
     "CMPT276/Architecture/Definitions/4 + 1 View Model.md",
     "CMPT276/Architecture/Definitions/Maintainability.md",
     "CMPT276/Architecture/Definitions/Pasted image 20231110104849.png",
-    "CMPT276/Architecture/Definitions/Availability.md",
     "CMPT276/Architecture/Definitions/Pasted image 20231110104910.png",
     "CMPT276/Architecture/Definitions",
     "Arczzzz",
