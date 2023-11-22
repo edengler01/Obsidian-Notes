@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1482c3e36d3faf0b",
+        "id": "d1cd00257225565e",
         "type": "tabs",
         "children": [
           {
-            "id": "3962232b6ea2d2f4",
+            "id": "2199bd53c9422905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT276/Architecture/Architecture 2.md",
-                "mode": "preview",
+                "file": "MACM201/Chapter 7 Trees.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPT276/Architecture/Architecture 2.md",
+                "file": "MACM201/Chapter 7 Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT276/Architecture/Architecture 2.md",
+                "file": "MACM201/Chapter 7 Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT276/Architecture/Architecture 2.md"
+                "file": "MACM201/Chapter 7 Trees.md"
               }
             }
+          },
+          {
+            "id": "28d66b9d452ba774",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,50 +157,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3962232b6ea2d2f4",
+  "active": "2199bd53c9422905",
   "lastOpenFiles": [
-    "Model-view-controller (MVC).md",
+    "MACM201/Chapter 1/Chapter 1 and 2.md",
+    "MACM201/Chapter 1/Lecture 6.md",
+    "MACM201/Chapter 1/Lecture 5.md",
+    "MACM201/Chapter 1/Lecture 4.md",
+    "MACM201/Chapter 1/Lecture 3.md",
+    "MACM201/Chapter 1/Lecture 2.md",
+    "MACM201/Chapter 1/Lecture 1.md",
+    "MACM201/Chapter 1",
+    "MACM201/Table of Contents.md",
+    "MACM201/Chapter 7 Trees.md",
+    "MACM201/Chapter 4.1 Intro to Recurrence Relations.md",
+    "MACM201/Defintion/Pasted image 20231122140915.png",
+    "simple graph.md",
+    "MACM201/Defintion/parallel edges.md",
+    "MACM201/Defintion/Pasted image 20231122142418.png",
+    "MACM201/Defintion/Pasted image 20231122142102.png",
+    "MACM201/Defintion/loops.md",
+    "MACM201/Defintion/Pasted image 20231122141035.png",
+    "MACM201/Defintion/cycle.md",
+    "MACM201/Defintion/Pasted image 20231122135853.png",
+    "MACM201/Defintion/Pasted image 20231122135621.png",
+    "MACM201/Defintion/Examples of trees, forest, leaf.md",
+    "MACM201/Defintion/Pasted image 20231122140226.png",
+    "MACM201/Defintion/Example.md",
+    "MACM201/Defintion",
+    "Design/Model-view-controller (MVC).md",
+    "Design/Patterns.md",
+    "Design/ADLs.md",
+    "Presentations.md",
     "CMPT276/Architecture/Architecture 2.md",
-    "Patterns.md",
     "CMPT276/Architecture/Architecture 1.md",
-    "ADLs.md",
     "CMPT276/Architecture/Definitions/User Scenarios.md",
     "CMPT276/Architecture/Definitions/Pasted image 20231110110228.png",
     "CMPT276/Architecture/Definitions/4 + 1 View Model.md",
     "CMPT276/Architecture/Definitions/Maintainability.md",
     "CMPT276/Architecture/Definitions/Pasted image 20231110104849.png",
     "CMPT276/Architecture/Definitions/Availability.md",
-    "CMPT276/Architecture/Definitions/Safety.md",
-    "CMPT276/Architecture/Definitions/Security.md",
-    "CMPT276/Architecture/Definitions/Performance.md",
     "CMPT276/Architecture/Definitions/Pasted image 20231110104910.png",
-    "CMPT276/Architecture/Definitions/Large-scale reuse.md",
-    "CMPT276/Architecture/Definitions/System analysis.md",
-    "CMPT276/Architecture/Definitions/Stakeholder communication.md",
-    "CMPT276/Architecture/Definitions/Pasted image 20231110103222.png",
-    "CMPT276/Architecture/Definitions/Pasted image 20231110103120.png",
-    "CMPT276/Architecture/Definitions/Space Shuttle.md",
-    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
     "CMPT276/Architecture/Definitions",
     "Arczzzz",
     "CMPT276/Architecture",
-    "README.md",
     "CMPT276/Software Testing and Verification/Definitions",
     "CMPT276/Software Testing and Verification",
-    "CMPT276/Design and Implementaton/Design and Implementation 2.md",
-    "CMPT276/Design and Implementaton/Design and Implementation 1.md",
     "Design",
     "CMPT276/Design and Implementaton",
-    "CMPT276/Table of Contents.md",
-    "CMPT276/Requirements/Requirements 1.md",
-    "MACM201/Chapter 4.1 Intro to Recurrence Relations.md",
-    "CMPT276/Requirements/Definitions/Feasibility Study.md",
-    "CMPT276/Requirements/Definitions/Structural models.md",
-    "CMPT276/Requirements/Definitions/Software Requriem.md",
-    "CMPT276/Requirements/Definitions",
-    "CMPT276/Requirements",
-    "CMPT276/System Modeling/Pictures/racoon-bazaar-Iteration2.zip",
-    "CMPT276/System Modeling/Pictures/04-activity-diagram-example-process-order.webp",
-    "CMPT276/System Modeling/Pictures/04-activity-diagram-example-process-order 1.webp"
+    "CMPT276/Requirements/Definitions"
   ]
 }
