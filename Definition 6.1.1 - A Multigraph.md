@@ -1,0 +1,1 @@
+When *G = (V,E)* is a set of *V* of [[Vertices]] and a [[Multiset]] *E* of edges where each edge is in *V x V*

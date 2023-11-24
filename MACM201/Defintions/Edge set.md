@@ -1,0 +1,1 @@
+*E* - set of all edges occurring in a graph

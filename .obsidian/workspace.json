@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1cd00257225565e",
+        "id": "df8f07073bfbf31a",
         "type": "tabs",
         "children": [
           {
-            "id": "2199bd53c9422905",
+            "id": "d9c84ee709f4b2d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "file": "MACM201/Chapter 6/Lecture 23 Multigraphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "file": "MACM201/Chapter 6/Lecture 23 Multigraphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "file": "MACM201/Chapter 6/Lecture 23 Multigraphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md"
+                "file": "MACM201/Chapter 6/Lecture 23 Multigraphs.md"
               }
             }
           },
@@ -157,53 +157,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2199bd53c9422905",
+  "active": "d9c84ee709f4b2d4",
   "lastOpenFiles": [
-    "Pasted image 20231122152157.png",
-    "Design/Model-view-controller (MVC).md",
-    "MACM201/Chapter 7 Trees.md",
-    "MACM201/Chapter 1/Chapter 1 and 2.md",
-    "MACM201/Chapter 1/Lecture 6.md",
-    "MACM201/Chapter 1/Lecture 5.md",
-    "MACM201/Chapter 1/Lecture 4.md",
-    "MACM201/Chapter 1/Lecture 3.md",
-    "MACM201/Chapter 1/Lecture 2.md",
-    "MACM201/Chapter 1/Lecture 1.md",
-    "MACM201/Chapter 1",
-    "MACM201/Table of Contents.md",
-    "MACM201/Chapter 4.1 Intro to Recurrence Relations.md",
-    "MACM201/Defintion/Pasted image 20231122140915.png",
-    "simple graph.md",
-    "MACM201/Defintion/parallel edges.md",
-    "MACM201/Defintion/Pasted image 20231122142418.png",
-    "MACM201/Defintion/Pasted image 20231122142102.png",
-    "MACM201/Defintion/loops.md",
-    "MACM201/Defintion/Pasted image 20231122141035.png",
-    "MACM201/Defintion/cycle.md",
-    "MACM201/Defintion/Pasted image 20231122135853.png",
-    "MACM201/Defintion/Pasted image 20231122135621.png",
-    "MACM201/Defintion/Examples of trees, forest, leaf.md",
-    "MACM201/Defintion/Pasted image 20231122140226.png",
-    "MACM201/Defintion/Example.md",
-    "MACM201/Defintion",
-    "Design/Patterns.md",
-    "Design/ADLs.md",
+    "MACM201/Chapter 6/Lecture 24 Eulerian Circuits & Trails.md",
+    "MACM201/Chapter 6/Lecture 25 & 26 Planarity.md",
+    "MACM201/Chapter 6/Lecture 27 Hamiltonian Paths & Cycles.md",
+    "MACM201/Chapter 8/Lecture 28 Trees.md",
+    "Pasted image 20231123182041.png",
+    "Pasted image 20231123181920.png",
+    "MACM201/Defintions/Pasted image 20231123181443.png",
+    "MACM201/Defintions/Pasted image 20231123181411.png",
+    "MACM201/Defintions/Pasted image 20231123181036.png",
+    "MACM201/Defintions/Examples of trees, forest, leaf.md",
+    "MACM201/Chapter 8/Lecture 29 Trees & Rooted Trees.md",
+    "MACM201/Defintions/Pasted image 20231123180313.png",
+    "MACM201/Defintions/Pasted image 20231123175730.png",
+    "MACM201/Defintions/Pasted image 20231123175405.png",
+    "MACM201/Defintions/Pasted image 20231123174621.png",
+    "MACM201/Chapter 6/Lecture 23 Multigraphs.md",
+    "MACM201/Defintions/Pasted image 20231123130656.png",
+    "Untitled 1.md",
+    "MACM201/Defintions/multigraph.md",
+    "walk.md",
+    "Definition 6.1.1 - A Multigraph.md",
+    "MACM201/Defintions/Parallel edges.md",
+    "Untitled.md",
+    "MACM201/Defintions/Edge.md",
+    "Size/Cardinality.md",
+    "Size",
+    "MACM201/Defintions/Multiset.md",
+    "MACM201/Defintions/Edge set.md",
     "Presentations.md",
-    "CMPT276/Architecture/Architecture 2.md",
-    "CMPT276/Architecture/Architecture 1.md",
-    "CMPT276/Architecture/Definitions/User Scenarios.md",
-    "CMPT276/Architecture/Definitions/Pasted image 20231110110228.png",
-    "CMPT276/Architecture/Definitions/4 + 1 View Model.md",
-    "CMPT276/Architecture/Definitions/Maintainability.md",
-    "CMPT276/Architecture/Definitions/Pasted image 20231110104849.png",
-    "CMPT276/Architecture/Definitions/Pasted image 20231110104910.png",
+    "MACM201/Defintions/simple graph.md",
+    "MACM201/Defintions/Vertices.md",
+    "MACM201/Defintions/Loops.md",
+    "MACM201/Chapter 6 Graph Theory.md",
+    "MACM201/A Table of Contents.md",
+    "MACM201/Chapter 7 Trees.md",
+    "MACM201/Chapter 8",
+    "MACM201/Chapter 6",
+    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+    "MACM201/Chapter 1",
+    "MACM201/Defintions",
     "CMPT276/Architecture/Definitions",
     "Arczzzz",
     "CMPT276/Architecture",
     "CMPT276/Software Testing and Verification/Definitions",
-    "CMPT276/Software Testing and Verification",
-    "Design",
-    "CMPT276/Design and Implementaton",
-    "CMPT276/Requirements/Definitions"
+    "CMPT276/Software Testing and Verification"
   ]
 }

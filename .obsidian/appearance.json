@@ -1,4 +1,10 @@
 {
-  "accentColor": "",
-  "baseFontSize": 16
+  "accentColor": "#020440",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "cssTheme": "Things",
+  "nativeMenus": true,
+  "translucency": true
 }
