@@ -7,22 +7,23 @@
 [[Multiset]]
 [[Size/Cardinality]]
 
-## A more general kind of graph
+# A more general kind of graph
 
-<span style="color:#c00000">Definition 6.1.1 - A Multigraph</span>
+## Definition 6.1.1 - A Multigraph
 - When *G = (V,E)* is a set of *V* of [[Vertices]] and a [[Multiset]] *E* of edges where each edge is in *V x V*
 <span style="color:#0070c0">Note:</span> An edge *e* that is [[incident]] to one vertex is called a loop
 - We think of *e* as having two "ends" that are both at the vertex.
 - [[Parallel edges]] are where two distinct edges are both incident to them selves
 
 
-<span style="color:#ffc000">Example 6.1</span>![[Pasted image 20231123125559.png]]
+### Example 6.1
+![[Pasted image 20231123125559.png]]
 <span style="color:#0070c0">Note</span>: A [[simple graph]] are multigraphs with no [[Loops]] and no [[Parallel edges]]
 End of [[Definition 6.1.1 - A Multigraph]]
 
 
 ## Walks, Trails and Circuits
-<span style="color:#c00000">Definition 6.1.2 -  Walks in Multigraphs</span>
+#### Definition 6.1.2 -  Walks in Multigraphs
 - Let *x* and *y* be two [[Vertices]] in a multigraph ([[Definition 6.1.1 - A Multigraph]]).
 - A [[walk]] in *G* is a finite alternating sequence
 -  The **length of the walk** *n* is the number of edges
