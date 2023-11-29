@@ -1,0 +1,1 @@
+A vertex where if you remove it from the graph G, the graph becomes disconnected

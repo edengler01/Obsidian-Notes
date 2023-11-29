@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df8f07073bfbf31a",
+        "id": "fc1275f17a14bcd1",
         "type": "tabs",
         "children": [
           {
-            "id": "7c3ee9dde3b7d2f4",
+            "id": "a8812c8565b71d5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MACM201/Chapter 6/Lecture 23 Multigraphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f465956885f766c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MACM201/A Table of Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "54de8696f015e87b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7d93aa3f1cdb974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MACM201/Chapter 6/Lecture 27 Hamiltonian Paths & Cycles.md",
+                "file": "MACM201/Assignments/Assignment 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MACM201/Chapter 6/Lecture 27 Hamiltonian Paths & Cycles.md",
+                "file": "MACM201/Assignments/Assignment 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MACM201/Chapter 6/Lecture 27 Hamiltonian Paths & Cycles.md",
+                "file": "MACM201/Assignments/Assignment 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MACM201/Chapter 6/Lecture 27 Hamiltonian Paths & Cycles.md"
+                "file": "MACM201/Assignments/Assignment 9.md"
               }
             }
           },
@@ -188,53 +157,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7d93aa3f1cdb974",
+  "active": "a8812c8565b71d5f",
   "lastOpenFiles": [
-    "Pasted image 20231127144617.png",
-    "Pasted image 20231127144515.png",
-    "MACM201/A Table of Contents.md",
-    "MACM201/Chapter 6/Lecture 27 Hamiltonian Paths & Cycles.md",
-    "MACM201/Defintions/Definition 6.1.1 - A Multigraph.md",
-    "MACM201/Chapter 8/Lecture 30 Tree Traversals and Spanning Trees.md",
-    "MACM201/Defintions/Pasted image 20231123181920.png",
-    "MACM201/Defintions/Hamiltonian vs Eulerian.md",
-    "MACM201/Chapter 6/Lecture 23 Multigraphs.md",
+    "MACM201/Assignments/Assignment 10.md",
+    "Pasted image 20231128225806.png",
+    "MACM201/Assignments/Assignment 9.md",
+    "degree sum formula.md",
+    "Pasted image 20231128225125.png",
+    "Euler's Formula.md",
     "MACM201/Chapter 6/Lecture 25 & 26 Planarity.md",
-    "MACM201/Defintions/Pasted image 20231126140639.png",
-    "MACM201/Defintions/Pasted image 20231126140505.png",
-    "MACM201/Chapter 6/Lecture 24 Eulerian Circuits & Trails.md",
-    "MACM201/Chapter 8/Lecture 28 Trees.md",
+    "Pasted image 20231128222839.png",
+    "Pasted image 20231128220940.png",
+    "Pasted image 20231128220649.png",
+    "Pasted image 20231128215801.png",
+    "MACM201/Assignments",
     "MACM201/Chapter 8/Lecture 29 Trees & Rooted Trees.md",
+    "MACM201/Chapter 8/Lecture 31 Articulation Points & Biconnected Comp.md",
+    "MACM201/Chapter 8/Lecture 30 Tree Traversals and Spanning Trees.md",
+    "Pasted image 20231128154916.png",
+    "MACM201/Defintions/Pasted image 20231128145634.png",
+    "MACM201/Defintions/Pasted image 20231128154806.png",
+    "MACM201/Defintions/Pasted image 20231128154736.png",
+    "MACM201/Defintions/Necessary Conditions for Hamilton Cycle.md",
+    "MACM201/Defintions/Hamilton Cycle.md",
+    "MACM201/Chapter 6/Lecture 27 Hamiltonian Paths & Cycles.md",
+    "MACM201/Defintions/walk.md",
+    "MACM201/Defintions/back edges.md",
+    "MACM201/Chapter 8/Lecture 28 Trees.md",
+    "MACM201/Defintions/Articulation Point.md",
     "MACM201/Chapter 4.1 Intro to Recurrence Relations.md",
-    "MACM201/Defintions/Pasted image 20231125022518.png",
-    "Chapter 6 Graphs.md",
-    "Lecture 23 Multigraphs.pdf",
-    "MACM201/Defintions/Pasted image 20231125021910.png",
-    "MACM201/Defintions/Pasted image 20231125021709.png",
-    "MACM201/Defintions/Pasted image 20231125021623.png",
-    "MACM201/Defintions/Pasted image 20231125021324.png",
-    "MACM201/Defintions/Pasted image 20231123182041.png",
-    "MACM201/Defintions/Examples of trees, forest, leaf.md",
-    "Untitled 1.md",
-    "MACM201/Defintions/multigraph.md",
-    "walk.md",
-    "MACM201/Defintions/Parallel edges.md",
-    "Untitled.md",
-    "MACM201/Defintions/Edge.md",
+    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
     "Size/Cardinality.md",
     "Size",
-    "MACM201/Defintions/Multiset.md",
-    "MACM201/Defintions/Edge set.md",
-    "Presentations.md",
-    "MACM201/Defintions/simple graph.md",
     "MACM201/Defintions/Vertices.md",
+    "MACM201/Defintions/simple graph.md",
+    "MACM201/Defintions/Parallel edges.md",
+    "MACM201/Defintions/Multiset.md",
+    "MACM201/Defintions/Loops.md",
+    "MACM201/Defintions/multigraph.md",
+    "MACM201/Defintions/Hamiltonian vs Eulerian.md",
+    "MACM201/Defintions",
     "MACM201/Chapter 8",
     "MACM201/Chapter 6",
     "MACM201/Chapter 1",
-    "MACM201/Defintions",
+    "MACM201/Defintion",
     "CMPT276/Architecture/Definitions",
     "Arczzzz",
-    "CMPT276/Architecture",
-    "CMPT276/Software Testing and Verification/Definitions"
+    "CMPT276/Architecture"
   ]
 }
