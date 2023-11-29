@@ -32,7 +32,7 @@ If G is a graph with Hamiltonian cycle, then G-v is connected for every vertex i
 ### Theorem 6.4.2
 If a bipartite graph, then the size of the to sides must be the same. If |V1| = |V2|
 ##### Proof: ![[Pasted image 20231126140639.png]]
-- A HC has the form: v1-w1-v2-w2-v3-w3 ... vk-wk-vi
+- A HC has the form: v<sub>1</sub>-w<sub>1</sub>-v<sub>2</sub>-w<sub>2</sub>-v<sub>3</sub>-w<sub>3</sub> ... v<sub>k</sub>-w<sub>k</sub>-v<sub>i</sub>
 	- These have to occur in pairs
 		- Because they happen in pairs, the size of both vertex sets must be the same
 
@@ -48,10 +48,9 @@ Let G be a graph with |V| = n
 If
 deg(x) + deg(y) >= n-1 for all x,y in V with x =/= then G has a Hamiltonian Path (Assumption 1)
 
-Proof:
+#### Proof:
 We start by showing that Assumption 1 implies G is connected.
-	Claim: By Assumption 1, G is connected.
-<span style="color:#0070c0">
+	<span style="color:#00b050">Claim: By Assumption 1, G is connected.</span><span style="color:#0070c0">
 Proof: Towards a contradiction suppose G is not connected. Let V1 and V2 be vertices 
 		in different components, say H1 and H2. Let n1= |V(|H1)|(number of vertices in H1), n2 = |V(H2)| (Number of vertices in H2), then n1 + n2 <= n.
 		deg(v1) + deg(v2) >= n - 1 (from Assumption 1)

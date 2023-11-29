@@ -1,0 +1,1 @@
+ delete edge *e* and add a new vertex *w* and two new edges *e<sub>1</sub> = {u,w}* and *e<sub>2</sub> = {w,v}* 
