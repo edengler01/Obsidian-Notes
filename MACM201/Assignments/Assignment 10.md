@@ -24,27 +24,32 @@ c) Does it have a spanning tree? DFS Spanning Tree?
 # 10.2
 ![[Pasted image 20231128154736.png]]
 ![[Pasted image 20231128154806.png]]
+The structure of a depth first search on K<sub>n,n</sub> will always be a [[hamilton path]]
+It will start on one side of the partition and zig zag sides but will eventually use all the vertices
 
 
 # 10.3
 ![[Pasted image 20231128154916.png]]
-Sufficient Condition <span style="color:#c00000">A</span> is sufficient condition for <span style="color:#ffc000">B</span> whenever the occurrence of A is all that is needed for the occurrence of <span style="color:#ffc000">B</span>
+<span style="color:#0070c0">a)</span> If |V<sub>1</sub>| is less than 2, then G does not have a HC. If |V<sub>1</sub>| and |V<sub>2</sub>| are not equal then G could be the bipartite graph K<sub>2,3</sub> which does not have a HC. Therefor a is true.
+<span style="color:#0070c0">b)</span> False. Consider a graph with V<sub>1</sub> = *{a.b}* and V<sub>2</sub> = *{c,d}* and E = *{(a, c), (b, c), (b, d)}*
+- Clearly G is connected with |V<sub>1</sub>| = |V<sub>2</sub>| = 2 but G does not have a HC.
 
-Necessary Condition: <span style="color:#ffc000">B</span> is a necessary condition for <span style="color:#c00000">A</span> whenever <span style="color:#c00000">A</span> cannot occur without the occurrence of <span style="color:#ffc000">B</span>
-
-To be both Necessary and Sufficient, 
-a) We know that this is a necessary condition. We know that in a HC, the walk happens in pairs. 
-- The HC has the form v<sub>1</sub> - w<sub>1</sub> - v<sub>2</sub> - w<sub>2</sub> ... w<sub>n</sub>-v<sub>n</sub>-v<sub>1</sub>
-b) Note there are no necessary and sufficient 
+# 10.4
+![[Pasted image 20231128215801.png]]
+Let V<sub>1</sub> and V<sub>2</sub> be the bipartition of K<sub>n+1,n</sub>
+|V<sub>1</sub>| = *n + 1*, |V<sub>2</sub>| = *n*
+- Every HP will have to start and end in V<sub>1</sub>
+- There are *n+1* ways to choose the first vertex (from V<sub>1</sub>) and *n* ways to choose the second vertex(from V<sub>2</sub>)
+	- This process continues until the last vertex is chosen
+		- *(n+1)! x n!* HP appear.
+		- We need to divide by 2! as we are counting the reverse case as well
+- Thus there are *((n+1) n!)/2! *
 
 # 10.5
-![[Pasted image 20231128215801.png]]
-We know that the left side will have n+1 vertices
-We know that the right will have n vertices
-
-We know for v<sub>1</sub> is n + 1 choices to pick
-- To pick for v<sub>2</sub>, we will have n choices
-- For each subsequent vertex, there will be n choices
-So there will be (n+1) x n<sup>n</sup>
-- Picture: ![[Pasted image 20231128222839.png]]
-- 
+![[Pasted image 20231201174815.png]]
+Consider the cycle on V = {1,2,3,4,5}. 
+- Has a [[hamilton path]]
+- deg(*x*) + deg(*y*) = 4 ≥ 5 - 1 = 4
+But if the cycle on V = {1,2,3,4,5,6} and we consider a cycle on 6 vertices we have that
+- deg(*x*) + deg(*y*) = 4 ≥ 6-1 = 5 which is not true
+Which disprove the converse of the result

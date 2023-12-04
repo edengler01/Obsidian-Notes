@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5953a96f923e146",
+        "id": "a725a93ac88c99b5",
         "type": "tabs",
         "children": [
           {
-            "id": "5a34f1c1ab4b4256",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MACM201/Defintions/Pasted image 20231128225806.png"
-              }
-            }
-          },
-          {
-            "id": "e29545091c0cc7ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPT276/Final Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0381b0be65b937a",
+            "id": "c221b7ee18c545f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,19 +20,31 @@
             }
           },
           {
-            "id": "9fc1bd2d7cef6c4e",
+            "id": "9073b0a29069020c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment 8.md",
+                "file": "MACM201/Assignments/Assignment 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26eda81aaaaaf4ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment 8.md",
+                "file": "MACM201/Assignments/Assignment 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignment 8.md",
+                "file": "MACM201/Assignments/Assignment 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignment 8.md"
+                "file": "MACM201/Assignments/Assignment 10.md"
               }
             }
           },
@@ -192,53 +182,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fc1bd2d7cef6c4e",
+  "active": "9073b0a29069020c",
   "lastOpenFiles": [
-    "Pasted image 20231129154906.png",
-    "MACM201/Final Studying Focus.md",
-    "Assignment 8.md",
-    "MACM201/Chapter 6/Lecture 25 & 26 Planarity.md",
     "MACM201/Assignments/Assignment 9.md",
-    "Software Evolution and Maintenance.md",
-    "CMPT276/Final Review.md",
-    "Pasted image 20231129145931.png",
-    "Pasted image 20231129144548.png",
-    "MACM201/Defintions/Pasted image 20231128225806.png",
-    "MACM201/Defintions/Pasted image 20231129140825.png",
+    "Assignment 5.md",
+    "MACM201/Final Studying Focus.md",
+    "MACM201/Defintions/Depth First Search.md",
+    "MACM201/Defintions/Pasted image 20231129144548.png",
+    "MACM201/Defintions/Pasted image 20231203001739.png",
+    "Breadth First Search.md",
+    "MACM201/Defintions/Pasted image 20231203001711.png",
+    "MACM201/Defintions/Pasted image 20231203000217.png",
+    "MACM201/Defintions/Pasted image 20231203000141.png",
+    "MACM201/Defintions/Graphs Types.md",
+    "MACM201/Defintions/Pasted image 20231202235119.png",
     "MACM201/Chapter 8/Lecture 30 Tree Traversals and Spanning Trees.md",
-    "MACM201/Chapter 6/Lecture 27 Hamiltonian Paths & Cycles.md",
-    "MACM201/Defintions/multigraph.md",
-    "MACM201/Chapter 6 Graph Theory.md",
-    "MACM201/Defintions/singleton.md",
-    "MACM201/Defintions/Pasted image 20231129140751.png",
-    "MACM201/Defintions/Pasted image 20231129134749.png",
-    "MACM201/Defintions/Pasted image 20231128220940.png",
-    "MACM201/Defintions/subdivide.md",
-    "MACM201/Defintions/planar.md",
-    "MACM201/Defintions/Euler's Formula.md",
-    "Euler's Forumla.md",
-    "MACM201/Defintions/Pasted image 20231129134200.png",
-    "MACM201/Chapter 6/Lecture 24 Eulerian Circuits & Trails.md",
-    "MACM201/Chapter 8/Lecture 31 Articulation Points & Biconnected Comp.md",
-    "MACM201/Chapter 6/Lecture 23 Multigraphs.md",
+    "Chapter 6 Graphs.md",
     "MACM201/Assignments/Assignment 10.md",
+    "Assignment 8.md",
+    "Untitled.md",
+    "MACM201/Defintions/Pasted image 20231202014250.png",
+    "MACM201/Defintions/Pasted image 20231202014053.png",
+    "MACM201/Defintions/Pasted image 20231202014040.png",
+    "MACM201/Defintions/Pasted image 20231202013420.png",
+    "MACM201/Chapter 6/Lecture 25 & 26 Planarity.md",
+    "MACM201/Chapter 6/Lecture 23 Multigraphs.md",
+    "MACM201/Defintions/Size/Cardinality.md",
+    "MACM201/A Table of Contents.md",
+    "MACM201/Chapter 4.1 Intro to Recurrence Relations.md",
+    "Software Evolution and Maintenance.md",
+    "MACM201/Defintions/subdivide.md",
+    "MACM201/Defintions/singleton.md",
+    "MACM201/Defintions/planar.md",
     "MACM201/Defintions/degree sum formula.md",
-    "MACM201/Defintions/Pasted image 20231128225125.png",
-    "MACM201/Defintions/Pasted image 20231128222839.png",
+    "MACM201/Defintions/Euler's Formula.md",
+    "CMPT276/Final Review.md",
+    "CMPT276/Design/Patterns.md",
+    "CMPT276/Design/Model-view-controller (MVC).md",
+    "CMPT276/Design/ADLs.md",
+    "CMPT276/Design",
     "MACM201/Assignments",
-    "MACM201/Chapter 8/Lecture 29 Trees & Rooted Trees.md",
-    "MACM201/Defintions/Necessary Conditions for Hamilton Cycle.md",
-    "MACM201/Defintions/Hamilton Cycle.md",
-    "MACM201/Defintions/walk.md",
-    "MACM201/Defintions/back edges.md",
-    "Size",
-    "MACM201/Defintions",
+    "Lecture 23 Multigraphs.pdf",
+    "MACM201/Defintions/Size",
     "MACM201/Chapter 8",
     "MACM201/Chapter 6",
     "MACM201/Chapter 1",
-    "MACM201/Defintion",
+    "MACM201/Defintions",
     "CMPT276/Architecture/Definitions",
-    "Arczzzz",
-    "CMPT276/Architecture"
+    "Arczzzz"
   ]
 }

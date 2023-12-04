@@ -15,7 +15,12 @@
 [[Lecture 25 & 26 Planarity]]
 ## DFS and BFS
 [[Lecture 30 Tree Traversals and Spanning Trees]]
+[[Depth First Search]]
+[[Breadth First Search]]
 ## Recurrence Relations
 Lectures 11, 12, 13, 14, 17, 18, 19, 20
+[[Assignment 5]]
+[[Assignment 6]]
+[[Assignment 7]]
 ## Binomial Coefficient 
 Possible Lecture 3 and Lecture 20

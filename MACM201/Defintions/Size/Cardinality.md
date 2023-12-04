@@ -1,0 +1,1 @@
+of a multiset is the sum of the multiplicities

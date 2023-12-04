@@ -5,7 +5,7 @@
 **[[Loops]]**
 
 [[Multiset]]
-[[Size/Cardinality]]
+[[Cardinality]]
 
 # A more general kind of graph
 

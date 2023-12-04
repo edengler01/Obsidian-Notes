@@ -5,7 +5,7 @@
 [[Edge set]]
 [[Loop]]
 [[Multiset]]
-[[Size/Cardinality]]
+[[Cardinality]]
 
 
 #### Definition 6.1.1
