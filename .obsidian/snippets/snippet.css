@@ -9,3 +9,20 @@
 img {
 border-radius: 10px;
 }
+
+
+
+
+.markdown-preview-view::after {
+  content: "";
+  position: absolute;
+  background-image: url(https://t4.ftcdn.net/jpg/05/25/60/29/360_F_525602947_7531G1ZZGuVgvqiz9yD3cN7oC0t2RDxA.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(4px) brightness(50%) saturate(50%);
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
