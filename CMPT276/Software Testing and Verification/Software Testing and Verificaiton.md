@@ -17,8 +17,12 @@
 - But there are "[[seven testing principles]]"
 ____
 ## Inspections & Testing
-
-
+[[Software Inspection]] vs [[Software Testing]]
+- Are complementary to eachother
+- Both should be used during the V & V process
+- Inspections check conformance with a specification
+	- but not the customer's real  [[functional requirements]]
+	- Cannot check [[non-functional requirements]] characteristics such as performance, usability
 
 _____ 
 ##  [Equivalence Partitioning](https://testsigma.com/blog/equivalence-partitioning/)

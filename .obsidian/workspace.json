@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "512bd19c878aa586",
+        "id": "0808ea2dc006c5c4",
         "type": "tabs",
         "children": [
           {
-            "id": "dbcb044e9a25dea5",
+            "id": "65481530d8dcda76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT276/Sort Later/Test-First Development.md",
+                "file": "functional requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPT276/Sort Later/Test-First Development.md",
+                "file": "functional requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT276/Sort Later/Test-First Development.md",
+                "file": "functional requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT276/Sort Later/Test-First Development.md"
+                "file": "functional requirements.md"
               }
             }
           },
@@ -151,6 +151,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "65c6cec91e83133c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -189,15 +197,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbcb044e9a25dea5",
+  "active": "65481530d8dcda76",
   "lastOpenFiles": [
+    "2023-12-08.md",
+    "functional requirements.md",
+    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+    "Software Inspection.md",
+    "Software Testing.md",
+    "CMPT276/Sort Later/Test-First Development.md",
     "CMPT276/Sort Later/Customer Involvement (in Test Development).md",
     "CMPT276/Table of Contents.md",
-    "2023-12-08.md",
     "CMPT276/Sort Later",
-    "CMPT276/Sort Later/Test-First Development.md",
     "CMPT276/Sort Later/Pasted image 20231207131813.png",
-    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
     "CMPT276/Sort Later/seven testing principles.md",
     "CMPT276/Sort Later/Marketing environment.md",
     "CMPT276/Sort Later/User Expectation.md",
@@ -217,9 +228,6 @@
     "CMPT276/Architecture/Architecture 2.md",
     "CMPT276/Architecture/Architecture 1.md",
     "CMPT276/Architecture/Definitions/4 + 1 View Model.md",
-    "CMPT276/Design/Model-view-controller (MVC).md",
-    "CMPT276/Design/Patterns.md",
-    "CMPT276/Design/ADLs.md",
     "CMPT276/Sort Later/Pasted image 20231207141553.png",
     "MACM201/Pasted image 20231204002544.png",
     "MACM201/Defintions/Pasted image 20231129144548.png",
