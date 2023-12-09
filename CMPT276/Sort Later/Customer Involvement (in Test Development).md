@@ -1,0 +1,4 @@
+- Helps develop acceptance tests for stories
+	- Then implemented in the next release of the system
+- Customer who is part of the team writes tests while development proceeds
+	- All new code is then validated to ensure it meets the customers needs

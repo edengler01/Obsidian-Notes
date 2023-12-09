@@ -1,4 +1,26 @@
+## Program Testing Goals
+- [[Validation Testing]]
+- [[Defect Testing]]
 
+### Software Testing & Verification
+[[Verification]] vs [[Validation]]
+![[Pasted image 20231208232950.png]]
+#### Note: "V & V Confidence"
+- Aims to establish confidence that the system is "fit for purpose"
+- Depends on:
+	- [[Software purpose]]
+	- [[User Expectation]]
+	- [[Marketing environment]]
+
+#### Software Testing Principles
+- There is no universal agreement
+- But there are "[[seven testing principles]]"
+____
+## Inspections & Testing
+
+
+
+_____ 
 ##  [Equivalence Partitioning](https://testsigma.com/blog/equivalence-partitioning/)
 - Black-box testing techinque
 - Allows testers to group input data in categories

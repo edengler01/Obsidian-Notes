@@ -1,0 +1,7 @@
+- Writing tests before actual coding emphasizes the requirements to be implemented
+- Tests are written as programs instead of data
+	- so they can be executed automatically
+		- Tests includes a check to see if it has been executed correctly
+- Usually relies on testing frameworks (like Junit)
+- All previous and new test run automatically when new function is added
+	- Checks if the new functionality has not introduced new errors

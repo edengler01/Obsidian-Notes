@@ -1,0 +1,8 @@
+- Tests are written as executable components before the task is implemented
+	- Components should be standalone
+	- Tests should check the functionality & behaviour of the component during implementation
+- Always a set of tests that can be quickly & easily executed
+	- Quick tests that can determine if there is problems in the code
+		- Types of Cases
+			- Base Cases or Trivial Cases: values like 1
+			- Extreme edge Cases: uses extreme values

@@ -1,0 +1,1 @@
+Getting a product to market early may be more important than finding defects in the program

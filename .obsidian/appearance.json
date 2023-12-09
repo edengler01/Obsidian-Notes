@@ -5,6 +5,6 @@
     "snippet"
   ],
   "cssTheme": "Obsidian Nord",
-  "nativeMenus": true,
+  "nativeMenus": false,
   "translucency": true
 }
