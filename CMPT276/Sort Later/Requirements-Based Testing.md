@@ -1,0 +1,1 @@
+- Involves examining each requirement and developing a test or tests for it

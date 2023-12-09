@@ -1,0 +1,6 @@
+- Testing the system to check that changes have not "broken" previously working code
+	- Manual testing: expensive
+	- Automated testing: simple & straight forward
+		- All tests are rerun every time a change is made to the program
+- Test must successful before the change is commited
+- Test suite is developed incrementally as a program is developed

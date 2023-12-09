@@ -1,0 +1,8 @@
+- Agile: user/customer is part of the dev team
+	- Responsible for making decisions on acceptability of the system
+- Tests are defined by customer
+	- then integrated with other tests so the run automatically when changes are made
+- No separate acceptance testing process
+- Main problem
+	- Is the embedded user "typical" 
+	- Can represent the interests of all system stakeholders

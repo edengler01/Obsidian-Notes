@@ -1,2 +1,0 @@
-- Several individual units are integrated to create composite components
-- Should focus on testing component interfaces

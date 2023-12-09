@@ -1,0 +1,2 @@
+- Every code segment written has at least one associated test
+	- so all code written has at least one test

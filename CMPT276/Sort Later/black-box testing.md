@@ -1,0 +1,1 @@
+- Examines the functionality of an application without peering into its internal structure or workings

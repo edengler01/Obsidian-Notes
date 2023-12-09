@@ -1,0 +1,4 @@
+- Reusable components that have been modified may be integrated with newly developed components
+	- Complete system can then be tested
+- Components can be developed by different team members or sub-teams
+	- System testing is a collective process, as opposed to an individual process

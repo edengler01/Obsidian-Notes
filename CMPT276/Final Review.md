@@ -93,3 +93,14 @@
 # 10. Who is software project manager?
 
 # 11 What does the project manager do?
+
+
+
+What would help make SWE a true branch of engineering?
+- Possibly make the field more empirically based\
+
+Which is not one of the reasons for the so-called S/W crisis
+- S/W Crisis: Software dev projects are over-budger, behind schedule
+	- Then the software prodcued is often unreliable and unusuable
+	- Mostly due to people failures outweigh the technical failures
+- Reason that is not part of the crisis: None of them 

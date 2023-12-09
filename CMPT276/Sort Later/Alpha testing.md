@@ -1,0 +1,2 @@
+- Simulated/actual operation testing by potential user/customers or independent test team
+- Often employed for [[off the shelf software]] as a form of internal acceptance testing, before the software moves to beta testing

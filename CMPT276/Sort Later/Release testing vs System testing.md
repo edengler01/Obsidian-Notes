@@ -1,0 +1,4 @@
+- Separate team that has not been involved in the system development
+	- Should be responsible for [[Release Testing]]
+	- [[System testing]] by the dev team should focus on discovering bugs in the system ([[Defect Testing]])
+	- Objective of release testing: check that the system meets its requirements and is good enough for external use ([[Validation Testing]])

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "file": "CMPT276/Parnas/Pages/The limits of software engineering methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "file": "CMPT276/Parnas/Pages/The limits of software engineering methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "file": "CMPT276/Parnas/Pages/The limits of software engineering methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md"
+                "file": "CMPT276/Parnas/Pages/The limits of software engineering methods.md"
               }
             }
           },
@@ -199,43 +199,43 @@
   },
   "active": "65481530d8dcda76",
   "lastOpenFiles": [
-    "Partition testing.md",
-    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
-    "Guideline-based testing.md",
-    "Unit testing.md",
-    "System testing.md",
-    "Component testing.md",
-    "Beta Testing.md",
-    "Alpha testing.md",
-    "off the shelf software.md",
-    "Pre-alpha testing.md",
-    "non-functional requirements.md",
-    "functional requirements.md",
-    "2023-12-08.md",
-    "Software Inspection.md",
-    "Software Testing.md",
-    "CMPT276/Sort Later/Test-First Development.md",
-    "CMPT276/Sort Later/Customer Involvement (in Test Development).md",
+    "CMPT276/Parnas/Parnas Summarization.md",
+    "CMPT276/Parnas/Pages/Why conventional software development does not produce reliable programs.md",
+    "CMPT276/Parnas/Pages/Artificial intelligence and the Strategic Defense Initiative.md",
+    "CMPT276/Parnas/Pages/Can program verification make the SDI software reliable.md",
+    "CMPT276/Final Review.md",
     "CMPT276/Table of Contents.md",
+    "CMPT276/Sort Later/Acceptance testing.md",
+    "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+    "CMPT276/Sort Later/User Testing.md",
+    "CMPT276/Sort Later/Agile Methods and Acceptance testing.md",
+    "CMPT276/Sort Later/Pasted image 20231209014552.png",
+    "CMPT276/Sort Later/Alpha testing.md",
+    "CMPT276/Sort Later/Performance Testing.md",
+    "CMPT276/Sort Later/Requirements-Based Testing.md",
+    "CMPT276/Sort Later/Release testing vs System testing.md",
+    "CMPT276/Sort Later/Release Testing.md",
+    "CMPT276/Sort Later/black-box testing.md",
+    "CMPT276/Sort Later/TDD Benefits.md",
+    "CMPT276/Sort Later/Regression testing.md",
+    "CMPT276/Sort Later/System documentation.md",
+    "CMPT276/Sort Later/Simplified debugging.md",
+    "CMPT276/Sort Later/Code coverage.md",
+    "CMPT276/Sort Later/TDD Process.md",
+    "CMPT276/Sort Later/Test-Driven Development.md",
+    "CMPT276/Sort Later/Testing Policies.md",
+    "CMPT276/Architecture/Architecture 2.md",
+    "CMPT276/Sort Later/System and Component Testing.md",
+    "CMPT276/Sort Later/Pasted image 20231209005447.png",
+    "CMPT276/Sort Later/Pasted image 20231209004710.png",
     "CMPT276/Sort Later",
     "CMPT276/Sort Later/Pasted image 20231207131813.png",
-    "CMPT276/Sort Later/seven testing principles.md",
-    "CMPT276/Sort Later/Marketing environment.md",
-    "CMPT276/Sort Later/User Expectation.md",
-    "CMPT276/Sort Later/Software purpose.md",
-    "CMPT276/Sort Later/Validation.md",
-    "CMPT276/Sort Later/Verification.md",
     "CMPT276/Sort Later/Pasted image 20231208232950.png",
-    "CMPT276/Sort Later/Defect Testing.md",
-    "CMPT276/Sort Later/Validation Testing.md",
     "CMPT276/Sort Later/Pasted image 20231207141553.png",
     "MACM201/Pasted image 20231204002544.png",
     "MACM201/Defintions/Pasted image 20231129144548.png",
     "MACM201/Defintions/Pasted image 20231203001739.png",
     "MACM201/Defintions/Pasted image 20231203001711.png",
-    "MACM201/Defintions/Pasted image 20231203000217.png",
-    "MACM201/Defintions/Pasted image 20231203000141.png",
-    "MACM201/Defintions/Pasted image 20231202235119.png",
     "CMPT276/Design",
     "MACM201/Assignments",
     "Lecture 23 Multigraphs.pdf",

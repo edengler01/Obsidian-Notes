@@ -1,0 +1,1 @@
+- Calling component embeds assumptions about the behaviour of the called component which are incorrect

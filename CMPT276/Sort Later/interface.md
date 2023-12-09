@@ -1,0 +1,2 @@
+- a description of action that an object can do
+- In OOP an Interface is a description of all functions that an object must have in order to be Object X
