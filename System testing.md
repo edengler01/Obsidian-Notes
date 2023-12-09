@@ -1,0 +1,2 @@
+- Some or all components in a system are integrated and the system is tested as a whole
+- Should focus on testing components interactions

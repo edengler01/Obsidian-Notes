@@ -24,9 +24,42 @@ ____
 	- but not the customer's real  [[functional requirements]]
 	- Cannot check [[non-functional requirements]] characteristics such as performance, usability
 
-_____ 
+_____
+
+## Software Release Cycle
+- The sum of stages of development and maturity for a piece of software
+	- Ranges from intial development to initial release
+	- Includes updated version of the released version to improve software or fix bugs
+
+#### Three Testing Stages
+1. [[Pre-alpha testing]]
+2. [[Alpha testing]]
+3. [[Beta Testing]]
+
+#### Stages of Testing
+- Development Testing ([[Pre-alpha testing]]): system is tested during development to discover bugs/defects
+- Release testing: separate testing team test a complete version before it is released to users
+- User testing ([[Alpha testing]], [[Beta Testing]]): users or potential users of a system test the system in their own environment
+
+____
+
+## Development Testing
+- Includes all testing activities that are carried out during development
+- [[Unit testing]]
+- [[Component testing]]
+- [[System testing]]
+____
+## Testing Strategies
+- [[Partition testing]]
+- [[Guideline-based testing]]
+
+
+
+____
+
 ##  [Equivalence Partitioning](https://testsigma.com/blog/equivalence-partitioning/)
-- Black-box testing techinque
+
+- Black-box testing technique
 - Allows testers to group input data in categories
 	- Makes it possible reduce number of test cases
 	testsigma.com/blog/equivalence-partinioning

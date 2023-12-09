@@ -1,0 +1,2 @@
+- Use testing guidelines to choose test cases
+	- Reflects previous experience of the kinds of errors that programmers often make when developing components 

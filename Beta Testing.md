@@ -1,0 +1,7 @@
+- Comes after alpha testing
+- A form of external user acceptance testing
+- Limited audience outside of the programming team
+	- AKA beta testers
+- Ensure product has few faults or bugs
+- Open betas increase feedback to a lot of potential future users
+	- deliver value early
