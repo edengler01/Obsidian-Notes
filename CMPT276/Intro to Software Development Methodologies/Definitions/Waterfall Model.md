@@ -1,3 +1,6 @@
+![[Pasted image 20231209141900.png]]
+
+
 **Principles**
 1. System & Software Requirements: Captured in requirements documentation
 2. Analysis: models, schema and business rules

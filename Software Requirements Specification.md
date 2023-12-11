@@ -1,0 +1,7 @@
+- establishes the basis for an agreement between customers and contractors
+	- on what the product is expected to do
+	- and on what not to do
+- Permits a rigorous assessment of requirements before design can begin
+	- reduces later redesign
+- Should also provided basis for estimating costs, risks and schedules
+- If used properly, can prevent software failure

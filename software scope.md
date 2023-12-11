@@ -1,0 +1,2 @@
+- Software scope clearly defines all functionalities & artifacts to be delivered as part of the software
+- Boundaries of your project, define what goals, deadlines and project deliverables you'll be working towards

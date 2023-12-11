@@ -30,11 +30,11 @@
 
 # 6. What SDLC models available? 
 - Models that were covered in class
-1. Waterfall
+1. [[Waterfall Model]]
 2. Prototyping
 3. Iterative & Incremental Development
 4. Reuse-oriented software engineering
-5. V Model
+5. [[The V Model]]
 6. SPIRAL
 7. RAD
 
@@ -94,7 +94,22 @@
 
 # 11 What does the project manager do?
 
+# 12 What is [[software scope]]? 
+# 13 What is [[project estimation]]?
+ 
+# 14 How can we derive the [[size of a software product]]?
+- lines of code
+- Determine function points
+# 15 What are [[function points]]
 
+# 44 Difference between [[Validation]] and [[Verification]]
+- [[Validation]] - do
+- [[Verification]] - conform
+# 46 What are the various types of [[software maintenance]]?
+ 1. [[Corrective maintenance]]
+2. [[Adaptive maintenance]]
+3. [[Perfective maintenance]]
+4. [[Preventative maintenance]]
 
 What would help make SWE a true branch of engineering?
 - Possibly make the field more empirically based\
@@ -104,3 +119,50 @@ Which is not one of the reasons for the so-called S/W crisis
 	- Then the software prodcued is often unreliable and unusuable
 	- Mostly due to people failures outweigh the technical failures
 - Reason that is not part of the crisis: None of them 
+
+[[Software Requirements Specification]] 
+- [[The Titanic Effect]]
+
+
+Which is NOT a UML Diagram Type?
+[[UML]] 
+
+A [[Behaviour Models]]
+
+[[Software Methodolgies]]
+
+
+## What would make SWE a true branch of engineering?
+a. Make the field more empirically based
+or
+e. None of these
+
+## What is NOT one of the reasons for the S/W crisis
+d. Lack of qualified engineer
+or 
+e. None of these
+
+
+If the objects focus on the problem domain, then we are concerned with 
+a. Object Oriented Analysis, 
+b. <span style="color:#00b050">Object Oriented Design, </span>
+c. Object Oriented Analysis and Design, 
+d. Object Oriented Programming, e. None of the above.
+## Which is Not one of the "Three Rs" of S/W Evolution?
+The [[Three R's of Software Evolution]]
+1. Reverse engineering
+2. Refactoring
+3. Reengineering
+Rapid Engineering is not part of the three Rs
+
+## Which of the fundamental principles of the Modern Scientific Method does SWE resemble?
+a. <span style="color:#ffc000">Parsimony (Occam's Razor)</span>
+b. <span style="color:#00b050">Reductionism</span>
+	- The basis of software development is breaking a large problem down into easily workable parts and then to combine those parts
+c. <span style="color:#c00000">Determinism</span>
+d. <span style="color:#c00000">Refutability </span>
+
+
+## What is XP
+- [[Extreme programming - XP]]
+- d. All of these

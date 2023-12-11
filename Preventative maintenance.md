@@ -1,0 +1,1 @@
+Software that is improved by fixing bugs before the activate

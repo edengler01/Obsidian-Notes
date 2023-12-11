@@ -1,0 +1,5 @@
+- The idea of a disaster is impossible often leads to an unthinkable disaster
+- Example: Casino puts policies against lucky customers, but a tiger mauls a valuable performer, costing the Casino $100 million. 
+	- An employer may forget to file tax paperwork. 
+	- Someone could kidnap the casino owner's daughter
+	- Events that nobody could have foreseen

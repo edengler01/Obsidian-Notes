@@ -1,0 +1,1 @@
+Software that is adapted to changing needs

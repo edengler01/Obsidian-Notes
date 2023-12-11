@@ -4,22 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "0808ea2dc006c5c4",
+        "id": "604720745e45202f",
         "type": "tabs",
         "children": [
           {
-            "id": "65481530d8dcda76",
+            "id": "89a9d52fd35dd1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPT276/Parnas/Pages/The limits of software engineering methods.md",
+                "file": "Software Evolution & Maintenance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59795b5bfa9373c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT276/Intro to Software Development Methodologies/Intro to Methodologies 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,6 +62,14 @@
             }
           },
           {
+            "id": "faf6834c3c164095",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "cb3063f7ef0afdae",
             "type": "leaf",
             "state": {
@@ -56,19 +78,47 @@
             }
           },
           {
-            "id": "84fc11dee8a41f9e",
+            "id": "3695ab660911b761",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "84fc11dee8a41f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "5946ec6a3a4f2125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acafa7bead4137a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 441.5
   },
   "right": {
     "id": "418072c473650ba8",
@@ -77,7 +127,6 @@
       {
         "id": "89c0462291a7bab3",
         "type": "tabs",
-        "dimension": 25.139146567717997,
         "children": [
           {
             "id": "46544e6e6bd8252f",
@@ -85,8 +134,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPT276/Parnas/Pages/The limits of software engineering methods.md",
-                "collapseAll": false,
+                "file": "CMPT276/Intro to Software Development Methodologies/Intro to Methodologies 1.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPT276/Parnas/Pages/The limits of software engineering methods.md",
+                "file": "CMPT276/Intro to Software Development Methodologies/Intro to Methodologies 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPT276/Parnas/Pages/The limits of software engineering methods.md"
+                "file": "CMPT276/Intro to Software Development Methodologies/Intro to Methodologies 1.md"
               }
             }
           },
@@ -162,24 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "2c73ee716bc174d5",
-        "type": "tabs",
-        "dimension": 74.860853432282,
-        "children": [
-          {
-            "id": "acafa7bead4137a7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -197,53 +229,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65481530d8dcda76",
+  "active": "59795b5bfa9373c8",
   "lastOpenFiles": [
-    "CMPT276/Parnas/Parnas Summarization.md",
-    "CMPT276/Parnas/Pages/Why conventional software development does not produce reliable programs.md",
-    "CMPT276/Parnas/Pages/Artificial intelligence and the Strategic Defense Initiative.md",
-    "CMPT276/Parnas/Pages/Can program verification make the SDI software reliable.md",
+    "SoftwareMeth.pdf",
     "CMPT276/Final Review.md",
-    "CMPT276/Table of Contents.md",
-    "CMPT276/Sort Later/Acceptance testing.md",
+    "Three R's of Software Evolution.md",
+    "Software Evolution & Maintenance.md",
+    "Software Evolution.md",
+    "The Iceberg Problem.md",
+    "The Titanic Effect.md",
+    "CMPT276/Sort Later/Test Automation.md",
     "CMPT276/Software Testing and Verification/Software Testing and Verificaiton.md",
-    "CMPT276/Sort Later/User Testing.md",
-    "CMPT276/Sort Later/Agile Methods and Acceptance testing.md",
-    "CMPT276/Sort Later/Pasted image 20231209014552.png",
-    "CMPT276/Sort Later/Alpha testing.md",
-    "CMPT276/Sort Later/Performance Testing.md",
-    "CMPT276/Sort Later/Requirements-Based Testing.md",
+    "CMPT276/Sort Later/Component testing.md",
+    "CMPT276/Sort Later/Unit testing.md",
+    "CMPT276/Sort Later/Test-First Development.md",
+    "CMPT276/Agile Software Development 1/Definitions/Extreme programming - XP.md",
+    "CMPT276/Sort Later/System testing.md",
     "CMPT276/Sort Later/Release testing vs System testing.md",
-    "CMPT276/Sort Later/Release Testing.md",
-    "CMPT276/Sort Later/black-box testing.md",
-    "CMPT276/Sort Later/TDD Benefits.md",
-    "CMPT276/Sort Later/Regression testing.md",
-    "CMPT276/Sort Later/System documentation.md",
-    "CMPT276/Sort Later/Simplified debugging.md",
-    "CMPT276/Sort Later/Code coverage.md",
-    "CMPT276/Sort Later/TDD Process.md",
-    "CMPT276/Sort Later/Test-Driven Development.md",
-    "CMPT276/Sort Later/Testing Policies.md",
-    "CMPT276/Architecture/Architecture 2.md",
-    "CMPT276/Sort Later/System and Component Testing.md",
+    "CMPT276/Sort Later/User Testing.md",
+    "CMPT276/Sort Later/Software Testing.md",
+    "CMPT276/Sort Later/Software Inspection.md",
+    "CMPT276/Sort Later/Acceptance testing.md",
+    "CMPT276/UML/UML.md",
+    "CMPT276/UML/Definitions/Interaction Diagrams.md",
+    "CMPT276/UML/Definitions/Behavior Diagrams.md",
+    "CMPT276/UML/Definitions/Structure Diagrams.md",
+    "CMPT276/System Modeling/System Modeling 2.md",
+    "CMPT276/System Modeling/System Modeling 1.md",
+    "CMPT276/Requirements/Requirements 1.md",
+    "Wirth's",
+    "Pasted image 20231209141900.png",
+    "Pasted image 20231209125243.png",
+    "Pasted image 20231209125047.png",
+    "Pasted image 20231209125036.png",
+    "Pasted image 20231209034331.png",
+    "CMPT276/Sort Later/Pasted image 20231209014552.png",
     "CMPT276/Sort Later/Pasted image 20231209005447.png",
     "CMPT276/Sort Later/Pasted image 20231209004710.png",
     "CMPT276/Sort Later",
     "CMPT276/Sort Later/Pasted image 20231207131813.png",
     "CMPT276/Sort Later/Pasted image 20231208232950.png",
-    "CMPT276/Sort Later/Pasted image 20231207141553.png",
-    "MACM201/Pasted image 20231204002544.png",
-    "MACM201/Defintions/Pasted image 20231129144548.png",
-    "MACM201/Defintions/Pasted image 20231203001739.png",
-    "MACM201/Defintions/Pasted image 20231203001711.png",
     "CMPT276/Design",
     "MACM201/Assignments",
     "Lecture 23 Multigraphs.pdf",
     "MACM201/Defintions/Size",
     "MACM201/Chapter 8",
     "MACM201/Chapter 6",
-    "MACM201/Chapter 1",
-    "MACM201/Defintions",
-    "CMPT276/Architecture/Definitions"
+    "MACM201/Chapter 1"
   ]
 }

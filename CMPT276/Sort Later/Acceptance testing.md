@@ -8,7 +8,7 @@
 ### Stages in Process
 1. Define acceptance criteria
 2. Plan acceptance criteria
-3. Derive acceptance criteria
+3. Derive acceptance tests
 4. Run acceptance tests
 5. Negotiate test results
 6. Reject/accept system

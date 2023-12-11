@@ -1,5 +1,5 @@
 **Natural Language vs Formal Language**
-- ![[Pasted image 20231008121903.png]]
+![[Pasted image 20231008121903.png]]
 
 **The Fundamental Engineering Tool**
 - Computer-aided Design software
