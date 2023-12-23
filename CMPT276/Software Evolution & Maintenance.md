@@ -23,7 +23,7 @@ Change in S/W is Inevitable
 
 [[Moore's Law]]
 
-[[Wirth's/Page's Law]]
+[[Page's Law]]
 
 
 ## Summary

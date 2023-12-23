@@ -36,8 +36,18 @@
   "MACM201/Chapter 6": "LiFolder",
   "MACM201/Chapter 8": "LiFolder",
   "MACM201/Defintions": "LiFolder",
-  "MACM201/A Table of Contents.md": "RaBook",
   "MACM201/Assignments/Assignment 9.md": "LiNewspaper",
   "MACM201/Assignments/Assignment 10.md": "LiNewspaper",
-  "Software Evolution & Maintenance.md": "RaBook"
+  "CMPT276/Software Evolution & Maintenance.md": "RaBook",
+  "CMPT276": "LiFolder",
+  "CMPT295": "LiFolder",
+  "CMPT383": "LiFolder",
+  "MACM201/Table of Contents.md": "RaBook",
+  "MACM316": "LiFolder",
+  "Personal Projects": "LiFolder",
+  "Personal Projects/NHL API App": {
+    "iconName": "LiFolder",
+    "inheritanceIcon": "LiFolder"
+  },
+  "Personal Projects/NHL API App/API References.md": "RaBook"
 }

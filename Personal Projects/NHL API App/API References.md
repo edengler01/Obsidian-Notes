@@ -1,0 +1,1 @@
+[Zmalski/NHL-API-Reference: Unofficial reference for the NHL API endpoints. (github.com)](https://github.com/Zmalski/NHL-API-Reference?tab=readme-ov-file#players)

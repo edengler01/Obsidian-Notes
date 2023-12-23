@@ -1,0 +1,138 @@
+Using: GET https://api-web.nhle.com/v1/schedule/now
+```
+{
+  nextStartDate: '2023-12-22',
+  previousStartDate: '2023-12-08',
+  gameWeek: [
+    {
+      date: '2023-12-15',
+      dayAbbrev: 'FRI',
+      numberOfGames: 6,
+      games: [Array]
+    },
+    {
+      date: '2023-12-16',
+      dayAbbrev: 'SAT',
+      numberOfGames: 13,
+      games: [Array]
+    },
+    {
+      date: '2023-12-17',
+      dayAbbrev: 'SUN',
+      numberOfGames: 5,
+      games: [Array]
+    },
+    {
+      date: '2023-12-18',
+      dayAbbrev: 'MON',
+      numberOfGames: 5,
+      games: [Array]
+    },
+    {
+      date: '2023-12-19',
+      dayAbbrev: 'TUE',
+      numberOfGames: 11,
+      games: [Array]
+    },
+    {
+      date: '2023-12-20',
+      dayAbbrev: 'WED',
+      numberOfGames: 3,
+      games: [Array]
+    },
+    {
+      date: '2023-12-21',
+      dayAbbrev: 'THU',
+      numberOfGames: 12,
+      games: [Array]
+    }
+  ],
+  oddsPartners: [
+    {
+      partnerId: 2,
+      country: 'SE',
+      name: 'Unibet',
+      imageUrl: 'https://assets.nhle.com/betting_partner/unibet.svg',
+      siteUrl: 'https://www.unibet.se/betting/sports/filter/ice_hockey/nhl/all/matches',
+      bgColor: '#14805E',
+      textColor: '#FFFFFF',
+      accentColor: '#3AAA35'
+    },
+    {
+      partnerId: 3,
+      country: 'CZ',
+      name: 'Tipsport',
+      imageUrl: 'https://assets.nhle.com/betting_partner/tipsport.svg',
+      siteUrl: 'https://www.tipsport.cz/PartnerRedirectAction.do?pid=16961&sid=20360&bid=34954&tid=11268',
+      bgColor: '#2497F2',
+      textColor: '#FFFFFF',
+      accentColor: '#FFFFFF'
+    },
+    {
+      partnerId: 3,
+      country: 'SK',
+      name: 'Tipsport',
+      imageUrl: 'https://assets.nhle.com/betting_partner/tipsport.svg',
+      siteUrl: 'https://www.tipsport.sk/PartnerRedirectAction.do?pid=6823&sid=9018&bid=23079&tid=8475',
+      bgColor: '#2497F2',
+      textColor: '#FFFFFF',
+      accentColor: '#FFFFFF'
+    },
+    {
+      partnerId: 5,
+      country: 'RU',
+      name: 'Liga Stavok',
+      imageUrl: 'https://assets.nhle.com/betting_partner/ligastavok.svg',
+      bgColor: '#007354',
+      textColor: '#FFFFFF',
+      accentColor: '#FFEB00'
+    },
+    {
+      partnerId: 6,
+      country: 'FI',
+      name: 'Veikkaus',
+      imageUrl: 'https://assets.nhle.com/betting_partner/veikkaus.svg',
+      siteUrl: 'https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-2-1_NHL',
+      bgColor: '#0025F5',
+      textColor: '#FFFFFF',
+      accentColor: '#FFFFFF'
+    },
+    {
+      partnerId: 8,
+      country: 'CA',
+      name: 'Sportradar',
+      imageUrl: 'https://assets.nhle.com/betting_partner/sportsradar.svg',
+      siteUrl: 'https://sportradar.com',
+      bgColor: '#000000',
+      textColor: '#FFFFFF',
+      accentColor: '#E6E6E6'
+    },
+    {
+      partnerId: 8,
+      country: 'DE',
+      name: 'Sportradar',
+      imageUrl: 'https://assets.nhle.com/betting_partner/sportsradar.svg',
+      siteUrl: 'https://sportradar.com',
+      bgColor: '#000000',
+      textColor: '#FFFFFF',
+      accentColor: '#E6E6E6'
+    },
+    {
+      partnerId: 9,
+      country: 'US',
+      name: 'DraftKings',
+      imageUrl: 'https://assets.nhle.com/betting_partner/draftkings.svg',
+      siteUrl: 'https://dksb.sng.link/As9kz/720m?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D158542143%26wpcid%3D331060%26wpsrc%3D1320%26wpcn%3DNHLSportsbook%26wpscn%3DOddsByDK%26wpcrn%3DStatic%26wpscid%3DEvergreen%26wpcrid%3Dxx&psn=NHL&pcid=331060&pcrn=Evergreen&pscn=OddsByDK',
+      bgColor: '#000000',
+      textColor: '#FFFFFF',
+      accentColor: '#FFFFFF'
+    }
+  ],
+  preSeasonStartDate: '2023-09-23',
+  regularSeasonStartDate: '2023-10-10',
+  regularSeasonEndDate: '2024-04-18',
+  playoffEndDate: '2024-06-18',
+  numberOfGames: 55
+}
+
+```
